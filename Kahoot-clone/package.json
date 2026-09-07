@@ -1,0 +1,13 @@
+{
+"name": "kahoot-individual",
+"version": "1.0.0",
+"description": "Plataforma de evaluación interactiva individual",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"express": "^4.19.2",
+"socket.io": "^4.7.5"
+}
+}
